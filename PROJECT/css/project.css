@@ -1,0 +1,169 @@
+body {
+font-family: Arial, Verdana, serif;
+background-color: #878083;
+}
+
+h1{
+color: #9e358a;
+padding: 20px;
+text-align: center;
+}
+
+p{
+color: #53e2ac;
+padding: 20px;
+}
+
+li, a{
+  color: #ffffff;
+}
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+
+}
+
+p{
+  padding: 2px;
+}
+
+.quote{
+  color: #ffffff;
+}
+
+.pad{
+  padding: 20px;
+}
+
+.img2{
+  width: 10px;
+   height: 0px;
+}
+
+.img{
+      display: block;
+      margin: auto;
+      width: 41%;
+  }
+
+.padd{
+  padding: 20px;
+}
+
+.mlrquote{
+  color: #ffffff;
+}
+
+.me{
+  color: #050505;
+  text-align: center;
+}
+
+.list{
+  text-align: center;
+}
+
+.mlr{
+  color: #ffffff;
+}
+
+.kz{
+  color: #ffffff;
+}
+
+.nl{
+  width: 30%;
+  height: 30%;
+  padding-left: 30px;
+}
+
+.nl2{
+  color: #ffffff;
+}
+
+.ks{
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+.nc2{
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+.text2{
+  padding-left: 30px;
+}
+
+.nadia{
+  width: 50%;
+  height: 80%;
+  padding-left: 1%;
+}
+
+.marylou{
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+.retton{
+  width: 30%;
+  height: 30%;
+  padding-left: 2%;
+}
+
+.kimz{
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+.kimpic{
+  width: 30%;
+  height: 30%;
+  padding-left: 1%;
+}
+
+.nastia{
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+.simone{
+  width: 40%;
+  height: 50%;
+  padding-left: 1%;
+  padding-top: 20px;
+}
+
+.sb{
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+.laurie{
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+.lh{
+  width: 50%;
+  height: 50%;
+  padding-left: 1%;
+  padding-top: 20px;
+}
